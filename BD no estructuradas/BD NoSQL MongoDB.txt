@@ -1,0 +1,23 @@
+Introducción a la BD NoSQL MongoDB
+
+BD Estructuradas versus No Estructuradas.
+
++ BD Estructuradas - Limitaciones.
+
++ Estructura Compleja —> Una base de datos común se diseña para
+atender a diversas aplicaciones concurrentes, lo que genera una
+estructura compleja.
+
++ Concurrencia —> La operación concurrente obliga al DBMS a coordinar
+el acceso a los datos para garantizar su integridad. Esto implica una
+gran carga para la CPU.
+
+. Estructura > La estructura relacional obliga a organizar los datos en
+filas y columnas, pero las estructuras de datos en memoria RAM son
+más variadas (registros anidados, arreglos, árboles, etc), las cuales se
+deben traducir a estructuras relacionales para poder almacenarlas.
+
++ Escalamiento > Usualmente se aplica escalamiento vertical (más
+RAM, más CPU, discos de mayor capacidad). Oracle permite operar
+con instancias ASM para independizar el almacenamiento lógico del
+físico, pero esto requiere equipos de mucha potencia.
