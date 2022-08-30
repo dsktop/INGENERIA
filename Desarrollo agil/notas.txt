@@ -1,0 +1,77 @@
+clase: 29-08-2022
+LAS 5 S 
+  1.SEIRI: clasificar
+  2.SEITON: ordenar
+  3.SEISO: limpieza 
+  4.SEIKETSU: estandarizar
+  5.SHITSUKE: mantener
+  
+OBJETIVOS DE LEAN
+  excluir actividades que no generar valor
+  mejorar continuamente
+  detectar los problemas
+  cambiar el enfoque de la organizacion
+  
+  VALOR: Especificar valor desde la optica del cliente
+  FLUJO DE VALOR: Entender el flujo de valor del proceso
+  FLUJO CONTINUO: Realizar esas actividades sin interrupcion
+  PULL: Hacer siempre que alguien lo solicite
+  PERFECCION: De manera cada vez mas eficaz
+  VALOR: Especificar valor desde la optica del cliente
+
+Etapas LEAN
+  Analizar los procesos de la orga.
+    recursos estrategicos
+    analisis tactico
+    analisis operativo
+  Planificacion
+    objetivos 
+    recursos
+ 
+PLANIFICACION DE LEAN
+  1.levantar requerimientos
+  2.analizar requerimientos
+  3.diseñar un prototipo 
+  4.aceptacion de la propuesta
+  5.desarrollar la solucion 
+  6.pruebas y aceptacion 
+  7.entrega al cliente
+  
+
+CRYSTAL.
+Las 7 Propiedades 
+  1.entregas frecuentes
+  2.mejora reflexiva
+  3.comunicacion osmotica
+  4.seguridad personal
+  5.enfoque
+  6.acceso a usuarios expertos
+  7.entorno tecnico
+  
+ROLES CRYSTAL CLEAR
+  patrocinador
+  usuario experto
+  diseñador principal
+  programador
+  experto en negocio 
+  coordinador
+  verificador
+  escritor
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
