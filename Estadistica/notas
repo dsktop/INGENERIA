@@ -1,0 +1,11 @@
+clase 01-09-2022
+
+VARIABLES
+
+  Cuantitativas: Describen cualidades de un objeto o individuo.
+    ↪Nominales: Si sus valores no se pueden ordenar - Sexo, Grupo Sanguíneo, Religión, Nacionalidad, Fumar (Sí/No)
+    ↪Ordinales : Si sus valores se pueden ordenar - Jerarquización en cargos laborales, Intensidad del dolor.
+    
+  Cuantitativas: Sus valores son numéricos
+    ↪Discretas: Si toma valores enteros - Número de hijos, Número de libros leídos, Número de personas atendidas, edad (años cumplidos), etc.
+    ↪Continuas: Si entre dos valores, son posibles infinitos valores intermedios - Altura, Salario bruto anual, edad , etc
