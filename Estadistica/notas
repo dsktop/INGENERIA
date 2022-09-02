@@ -9,3 +9,9 @@ VARIABLES
   Cuantitativas: Sus valores son numéricos
     ↪Discretas: Si toma valores enteros - Número de hijos, Número de libros leídos, Número de personas atendidas, edad (años cumplidos), etc.
     ↪Continuas: Si entre dos valores, son posibles infinitos valores intermedios - Altura, Salario bruto anual, edad , etc
+    
+CONCEPTOPS:
+    ↪Poblacion: Es un conjunto de elementos(personas, objetos, etc) que tienen una o mas caracteristicas observables que se pueden medir en ellos.
+    ↪Muestras: subconjunto representativo de la poblacion al que tenemos acceso y sobre el que realmente hacemos observaciones(mediciones)
+    ↪Variables: es una caracteristica definida observable en la poblacion y que puede tomar dos o mas valores o modalidades
+    ↪Dato: es una representacion (numerica o alfabetica) de una variable
