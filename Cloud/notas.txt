@@ -1,0 +1,7 @@
+clase 01-09-2022
+
+Cobro escalonado: Se cobra por cuanto ocupe el cliente 
+
+Onpremise: Servicios fisicos
+Oncloud: Servicios en la nube
+
