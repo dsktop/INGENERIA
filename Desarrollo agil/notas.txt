@@ -96,6 +96,8 @@ COMPONENTES DE SCRUM: CEREMONIAS / EVENTOS, ARTEFACTOS, ROLES
 
 CREADOR: Ken Schwaber y Jeff Sutherland
 
+PARA PRUEBA: cuales son las principales funciones y roles de SCRUM
+
 
   
   
