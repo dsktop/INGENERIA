@@ -1,3 +1,14 @@
 clase 30-08-2022
 
 costo undido: gastos que no se recuperan
+
+clase 06-09-2022
+
+Clasificar costos por naturaleza:
+  economia a escala:El secreto en este tipo de economías es que mientras más se produce (al mayoreo) menor es el costo que tiene la empresa por fabricación. En cambio,                       si se produce en menor cantidad (minoreo), la fabricación es más costosa.
+  
+  También hay costos que tienen una naturaleza mixta: pueden ser semifijos o semivariables.
+
+  Costo semifijo: aquél que evoluciona escalonadamente. En principio se comporta como un costo fijo hasta que la actividad alcanza un determinado nivel, momento en el     que se produce un incremento brusco del mismo. A partir de ahí se vuelve a comportar como un costo fijo hasta que nuevamente la actividad alcanza otro nivel     determinado.
+
+
