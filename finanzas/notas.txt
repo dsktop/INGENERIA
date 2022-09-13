@@ -1,6 +1,7 @@
 clase 30-08-2022
 
-costo undido: gastos que no se recuperan
+Costo Undido: gastos que no se recuperan
+Costo Variable: Un costo variable es aquel que se modifica de acuerdo a variaciones del volumen de producción, se trata tanto de bienes como de servicios
 
 clase 06-09-2022
 
