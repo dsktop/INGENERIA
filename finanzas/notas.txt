@@ -13,3 +13,6 @@ Clasificar costos por naturaleza:
   Costo semifijo: aquél que evoluciona escalonadamente. En principio se comporta como un costo fijo hasta que la actividad alcanza un determinado nivel, momento en el     que se produce un incremento brusco del mismo. A partir de ahí se vuelve a comportar como un costo fijo hasta que nuevamente la actividad alcanza otro nivel     determinado.
 
 
+Clase 27-09-2022
+
+Desgravamen: En concreto, el seguro de desgravamen es la forma que utiliza el banco para no verse perjudicado en caso que la persona que tomó un crédito fallezca y aún no haya terminado de pagar la deuda correspondiente, pero no cubre cuotas impagas a la fecha del suceso.
